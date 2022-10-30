@@ -2,7 +2,8 @@
 function App() {
   return (
     <div className="app">
-      hello
+      top
+      sec -intro -portfolio -wok
     </div>
   );
 }
